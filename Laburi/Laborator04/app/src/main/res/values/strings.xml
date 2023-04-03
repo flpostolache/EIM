@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Contacts Manager</string>
-    <string name="button">Show Additional Fields</string>
-    <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
-</resources>

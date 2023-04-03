@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="button">Show Additional Fields</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="nume">Nume</string>
+    <string name="numar_telefon">Numar telefon</string>
+    <string name="adresa_electronica">Adresa electronica</string>
+    <string name="adresa_postala">Adresa postala</string>
+    <string name="pozitia_ocupat">Poziția ocupată</string>
+    <string name="denumire_companie">Denumire companie</string>
+    <string name="site_web">Site Web</string>
+    <string name="identificator">Identificator</string>
+</resources>
