@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartedService.iml" filepath="$PROJECT_DIR$/StartedService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StartedService.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StartedService.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StartedService.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StartedService.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StartedService.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StartedService.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StartedService.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StartedService.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

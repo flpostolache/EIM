@@ -7,6 +7,8 @@ import android.util.Log;
 
 import ro.pub.cs.systems.eim.lab05.startedservice.general.Constants;
 
+
+
 public class StartedService extends Service {
 
     @Override
@@ -41,7 +43,8 @@ public class StartedService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.d(Constants.TAG, "onStartCommand() method was invoked");
-        // TODO: exercise 5 - implement and start the ProcessingThread
+        ThreadClass fir = new ThreadClass(this);
+        fir.start();
         return START_REDELIVER_INTENT;
     }
 
